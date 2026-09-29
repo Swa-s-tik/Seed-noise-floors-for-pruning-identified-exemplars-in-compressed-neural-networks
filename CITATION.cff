@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "The paper is under review; citation details will be added on publication."
+title: "Seed-noise floors for pruning-identified exemplars in compressed neural networks"
+version: 1.0.0
+date-released: 2026-09-29
+license: MIT
+repository-code: "https://github.com/Swa-s-tik/Seed-noise-floors-for-pruning-identified-exemplars-in-compressed-neural-networks"
+type: software
+authors:
+  - name: "Swa-s-tik"
