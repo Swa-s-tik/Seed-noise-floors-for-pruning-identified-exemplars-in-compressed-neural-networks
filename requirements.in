@@ -1,0 +1,12 @@
+# top-level pins (versions used for every result); torch/torchvision from https://download.pytorch.org/whl/cu130
+torch==2.14.0+cu130
+torchvision==0.29.0+cu130
+numpy==2.5.2
+scipy==1.18.1
+pandas==3.0.5
+pyarrow==25.0.1
+pillow==12.3.0
+simplejpeg==1.9.0
+matplotlib==3.11.1
+huggingface_hub==1.31.0
+pyfarmhash==0.5.1

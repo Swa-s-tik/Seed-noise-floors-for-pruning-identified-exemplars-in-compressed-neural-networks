@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+env/
+.pytest_cache/
+
+# Third-party data and model files: downloaded and checksum-verified by scripts/reproduce.sh, never committed
+# (see NOTICE.md)
+data/
+cifar/hf/
+cifar/cifar10/
+prior-gate/g13/tstat.csv
+prior-gate/g13/pie07.csv
+prior-gate/g13/pie09.csv
+
+# Figures that show ImageNet validation images (terms allow research use, not redistribution; see NOTICE.md)
+results/figures/fig8_examples.pdf
+results/figures/fig8_examples.png
+
+# Run logs and scratch outputs (only the checksum files and the environment record in logs/ are tracked)
+logs/*.log
+logs/*.out
+outputs/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
