@@ -1,0 +1,365 @@
+{
+ "pairwise_disagreement": {
+  "different exp id: dense-baseline@0.0 vs dense-baseline@0.0": {
+   "pairs": 55,
+   "mean": 0.15577781818181816,
+   "min": 0.15242,
+   "max": 0.1593
+  },
+  "different exp id: dense-baseline@0.0 vs dense-threshold@0.0": {
+   "pairs": 176,
+   "mean": 0.15559886363636363,
+   "min": 0.15236,
+   "max": 0.15914
+  },
+  "different exp id: dense-baseline@0.0 vs pruned@0.3": {
+   "pairs": 330,
+   "mean": 0.15602115151515153,
+   "min": 0.15258,
+   "max": 0.1614
+  },
+  "different exp id: dense-baseline@0.0 vs pruned@0.5": {
+   "pairs": 66,
+   "mean": 0.15795030303030305,
+   "min": 0.15552,
+   "max": 0.16148
+  },
+  "different exp id: dense-baseline@0.0 vs pruned@0.7": {
+   "pairs": 330,
+   "mean": 0.16445672727272725,
+   "min": 0.16064,
+   "max": 0.169
+  },
+  "different exp id: dense-baseline@0.0 vs pruned@0.9": {
+   "pairs": 330,
+   "mean": 0.1883639393939394,
+   "min": 0.18464,
+   "max": 0.1922
+  },
+  "different exp id: dense-threshold@0.0 vs dense-threshold@0.0": {
+   "pairs": 120,
+   "mean": 0.15499350000000003,
+   "min": 0.15166,
+   "max": 0.15806
+  },
+  "different exp id: dense-threshold@0.0 vs pruned@0.3": {
+   "pairs": 464,
+   "mean": 0.155790775862069,
+   "min": 0.15184,
+   "max": 0.1595
+  },
+  "different exp id: dense-threshold@0.0 vs pruned@0.5": {
+   "pairs": 93,
+   "mean": 0.15764559139784948,
+   "min": 0.15468,
+   "max": 0.16012
+  },
+  "different exp id: dense-threshold@0.0 vs pruned@0.7": {
+   "pairs": 464,
+   "mean": 0.16424564655172413,
+   "min": 0.16106,
+   "max": 0.16796
+  },
+  "different exp id: dense-threshold@0.0 vs pruned@0.9": {
+   "pairs": 464,
+   "mean": 0.18833379310344825,
+   "min": 0.1823,
+   "max": 0.19174
+  },
+  "different exp id: pruned@0.3 vs pruned@0.3": {
+   "pairs": 435,
+   "mean": 0.15595494252873565,
+   "min": 0.15202,
+   "max": 0.15988
+  },
+  "different exp id: pruned@0.3 vs pruned@0.5": {
+   "pairs": 174,
+   "mean": 0.15715643678160918,
+   "min": 0.15432,
+   "max": 0.16022
+  },
+  "different exp id: pruned@0.3 vs pruned@0.7": {
+   "pairs": 870,
+   "mean": 0.16290262068965516,
+   "min": 0.1583,
+   "max": 0.16696
+  },
+  "different exp id: pruned@0.3 vs pruned@0.9": {
+   "pairs": 870,
+   "mean": 0.18595671264367813,
+   "min": 0.18206,
+   "max": 0.19024
+  },
+  "different exp id: pruned@0.5 vs pruned@0.5": {
+   "pairs": 15,
+   "mean": 0.15685200000000002,
+   "min": 0.15522,
+   "max": 0.15834
+  },
+  "different exp id: pruned@0.5 vs pruned@0.7": {
+   "pairs": 174,
+   "mean": 0.16056298850574713,
+   "min": 0.15722,
+   "max": 0.16378
+  },
+  "different exp id: pruned@0.5 vs pruned@0.9": {
+   "pairs": 174,
+   "mean": 0.1809845977011494,
+   "min": 0.17786,
+   "max": 0.1847
+  },
+  "different exp id: pruned@0.7 vs pruned@0.7": {
+   "pairs": 435,
+   "mean": 0.1608433103448276,
+   "min": 0.15668,
+   "max": 0.16584
+  },
+  "different exp id: pruned@0.7 vs pruned@0.9": {
+   "pairs": 870,
+   "mean": 0.17566972413793103,
+   "min": 0.1706,
+   "max": 0.1798
+  },
+  "different exp id: pruned@0.9 vs pruned@0.9": {
+   "pairs": 435,
+   "mean": 0.17591885057471265,
+   "min": 0.17046,
+   "max": 0.18108
+  },
+  "same exp id: dense-threshold@0.0 vs pruned@0.3": {
+   "pairs": 16,
+   "mean": 0.15599125000000003,
+   "min": 0.15358,
+   "max": 0.15834
+  },
+  "same exp id: dense-threshold@0.0 vs pruned@0.5": {
+   "pairs": 3,
+   "mean": 0.15794,
+   "min": 0.15572,
+   "max": 0.15922
+  },
+  "same exp id: dense-threshold@0.0 vs pruned@0.7": {
+   "pairs": 16,
+   "mean": 0.16453125000000002,
+   "min": 0.16222,
+   "max": 0.16664
+  },
+  "same exp id: dense-threshold@0.0 vs pruned@0.9": {
+   "pairs": 16,
+   "mean": 0.18790125,
+   "min": 0.18424,
+   "max": 0.19058
+  },
+  "same exp id: pruned@0.3 vs pruned@0.5": {
+   "pairs": 6,
+   "mean": 0.15774333333333335,
+   "min": 0.15658,
+   "max": 0.15958
+  },
+  "same exp id: pruned@0.3 vs pruned@0.7": {
+   "pairs": 30,
+   "mean": 0.16269266666666665,
+   "min": 0.1603,
+   "max": 0.16574
+  },
+  "same exp id: pruned@0.3 vs pruned@0.9": {
+   "pairs": 30,
+   "mean": 0.18585999999999997,
+   "min": 0.18228,
+   "max": 0.19124
+  },
+  "same exp id: pruned@0.5 vs pruned@0.7": {
+   "pairs": 6,
+   "mean": 0.16023666666666667,
+   "min": 0.15924,
+   "max": 0.16094
+  },
+  "same exp id: pruned@0.5 vs pruned@0.9": {
+   "pairs": 6,
+   "mean": 0.18228000000000003,
+   "min": 0.17984,
+   "max": 0.18368
+  },
+  "same exp id: pruned@0.7 vs pruned@0.9": {
+   "pairs": 30,
+   "mean": 0.17550799999999997,
+   "min": 0.17348,
+   "max": 0.17916
+  }
+ },
+ "extrapolation_to_n30": {
+  "floor": {
+   "a+b/sqrt(n), n>=3": {
+    "n30": 2023.0748982747268,
+    "params": [
+     326.3796730531004,
+     9293.18248065193
+    ],
+    "max_abs_resid": 28.032079885806525
+   },
+   "a+b/sqrt(n), n>=5": {
+    "n30": 2001.7317254053037,
+    "params": [
+     279.86600760883164,
+     9431.046946319522
+    ],
+    "max_abs_resid": 12.244421801283352
+   },
+   "a+b*n^-c, n>=3": {
+    "n30": 1935.8376015551792,
+    "params": [
+     -237.6949047620576,
+     9519.301537559248,
+     0.43424934968169737
+    ],
+    "max_abs_resid": 15.500191871667994
+   },
+   "a+b*n^-c, n>=5": {
+    "n30": 1938.9571239053312,
+    "params": [
+     -243.2795771048642,
+     9487.34254955283,
+     0.43208553390327814
+    ],
+    "max_abs_resid": 9.156807023088732
+   }
+  },
+  "0.3": {
+   "a+b/sqrt(n), n>=3": {
+    "n30": 2086.44031076131,
+    "params": [
+     404.5086001815378,
+     9212.319380677915
+    ],
+    "max_abs_resid": 33.00867447673863
+   },
+   "a+b/sqrt(n), n>=5": {
+    "n30": 2062.5060864714255,
+    "params": [
+     352.4590907282193,
+     9366.313139624948
+    ],
+    "max_abs_resid": 12.864666478390973
+   },
+   "a+b*n^-c, n>=3": {
+    "n30": 1987.4440070533622,
+    "params": [
+     -246.6603949850208,
+     9483.715982561313,
+     0.4250667120214166
+    ],
+    "max_abs_resid": 19.840093829980106
+   },
+   "a+b*n^-c, n>=5": {
+    "n30": 1999.2388206777687,
+    "params": [
+     -175.78054979816395,
+     9424.55570346947,
+     0.43110730046016793
+    ],
+    "max_abs_resid": 10.197085327534296
+   }
+  },
+  "0.7": {
+   "a+b/sqrt(n), n>=3": {
+    "n30": 3048.1080088747067,
+    "params": [
+     1584.7283552323443,
+     8015.260464940191
+    ],
+    "max_abs_resid": 16.093368418333284
+   },
+   "a+b/sqrt(n), n>=5": {
+    "n30": 3070.7276545686645,
+    "params": [
+     1635.5802730256441,
+     7860.625942155856
+    ],
+    "max_abs_resid": 9.068624113334408
+   },
+   "a+b*n^-c, n>=3": {
+    "n30": 3106.05018040055,
+    "params": [
+     1895.0470621835673,
+     7959.944965059014,
+     0.5536206327127166
+    ],
+    "max_abs_resid": 17.163367152850697
+   },
+   "a+b*n^-c, n>=5": {
+    "n30": 3131.883442296228,
+    "params": [
+     2035.845098686464,
+     8000.998220985977,
+     0.5844600931652703
+    ],
+    "max_abs_resid": 10.222453072018652
+   }
+  },
+  "0.9": {
+   "a+b/sqrt(n), n>=3": {
+    "n30": 5009.439579324834,
+    "params": [
+     3820.5104694438955,
+     6512.032927563284
+    ],
+    "max_abs_resid": 38.57656685573511
+   },
+   "a+b/sqrt(n), n>=5": {
+    "n30": 5070.0835922538245,
+    "params": [
+     3955.5680882161423,
+     6104.452822506787
+    ],
+    "max_abs_resid": 15.543322537772838
+   },
+   "a+b*n^-c, n>=3": {
+    "n30": 5169.96357088127,
+    "params": [
+     4549.550284145748,
+     6605.723174032518,
+     0.6954332803847513
+    ],
+    "max_abs_resid": 19.043760387561633
+   },
+   "a+b*n^-c, n>=5": {
+    "n30": 5183.691887494283,
+    "params": [
+     4596.432661658301,
+     6628.329461495954,
+     0.7125848573960952
+    ],
+    "max_abs_resid": 9.774963597574242
+   }
+  }
+ },
+ "m4_zero_variance_artefact_n13": {
+  "0.3": {
+   "zero_variance_classes": 3.084,
+   "bh_sig_zero_variance": 3.084,
+   "bh_sig_excluding_zero_variance": 1.279,
+   "uncorrected_sig_excluding_zero_variance": 53.759
+  },
+  "0.7": {
+   "zero_variance_classes": 2.239,
+   "bh_sig_zero_variance": 2.239,
+   "bh_sig_excluding_zero_variance": 41.229,
+   "uncorrected_sig_excluding_zero_variance": 188.018
+  },
+  "0.9": {
+   "zero_variance_classes": 1.411,
+   "bh_sig_zero_variance": 1.411,
+   "bh_sig_excluding_zero_variance": 292.917,
+   "uncorrected_sig_excluding_zero_variance": 407.198
+  }
+ },
+ "printed_hooker_v3": {
+  "0.3": 1819,
+  "0.5": 2193,
+  "0.7": 3073,
+  "0.9": 5136,
+  "float16": 2019,
+  "dynamic int8": 2193,
+  "fixed-point int8": 2093
+ }
+}

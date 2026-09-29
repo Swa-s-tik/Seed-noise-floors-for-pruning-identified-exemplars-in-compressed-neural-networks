@@ -1,0 +1,12 @@
+{
+ "run_id": "2688178_b0.0",
+ "decoder": "ifast",
+ "tag": "",
+ "top1": 0.76642,
+ "top5": 0.93156,
+ "tstat_top1": 0.7663199901580809,
+ "tstat_top5": 0.9318000078201294,
+ "conv_zero_frac": 0.0,
+ "gpu_peak_alloc_GB": 1.23990784,
+ "seconds": 125.98044109344482
+}

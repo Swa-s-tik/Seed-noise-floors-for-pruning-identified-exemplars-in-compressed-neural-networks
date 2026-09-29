@@ -1,0 +1,249 @@
+{
+ "selection": {
+  "Seed-noise PIEs (dense vs dense)": [
+   {
+    "idx": 115,
+    "path": "ILSVRC2012_val_00001986_n09193705.JPEG",
+    "label": "alp",
+    "dense_votes": "monastery (9); alp (9)",
+    "pruned90_votes": "alp (21); valley (6)",
+    "f_floor": 1.0,
+    "f_0.9": 0.6430000066757202,
+    "real": [
+     "alp",
+     "valley",
+     "tile roof"
+    ]
+   },
+   {
+    "idx": 14458,
+    "path": "ILSVRC2012_val_00034595_n01945685.JPEG",
+    "label": "slug",
+    "dense_votes": "slug (8); mushroom (7)",
+    "pruned90_votes": "bolete (14); mushroom (6)",
+    "f_floor": 1.0,
+    "f_0.9": 0.6330000162124634,
+    "real": [
+     "mushroom",
+     "bolete",
+     "slug"
+    ]
+   },
+   {
+    "idx": 18360,
+    "path": "ILSVRC2012_val_00011325_n02128925.JPEG",
+    "label": "jaguar",
+    "dense_votes": "Staffordshire bullterrier (6); Labrador retriever (5)",
+    "pruned90_votes": "Staffordshire bullterrier (9); gorilla (9)",
+    "f_floor": 1.0,
+    "f_0.9": 0.8659999966621399,
+    "real": []
+   },
+   {
+    "idx": 20280,
+    "path": "ILSVRC2012_val_00025484_n02979186.JPEG",
+    "label": "cassette player",
+    "dense_votes": "CD player (9); modem (9)",
+    "pruned90_votes": "CD player (20); photocopier (6)",
+    "f_floor": 1.0,
+    "f_0.9": 0.7419999837875366,
+    "real": []
+   },
+   {
+    "idx": 27004,
+    "path": "ILSVRC2012_val_00001076_n03937543.JPEG",
+    "label": "pill bottle",
+    "dense_votes": "lampshade (6); pill bottle (5)",
+    "pruned90_votes": "lampshade (25); spotlight (2)",
+    "f_floor": 1.0,
+    "f_0.9": 0.7120000123977661,
+    "real": [
+     "pill bottle"
+    ]
+   },
+   {
+    "idx": 27600,
+    "path": "ILSVRC2012_val_00039354_n03657121.JPEG",
+    "label": "lens cap",
+    "dense_votes": "projector (4); reel (4)",
+    "pruned90_votes": "dumbbell (4); reel (4)",
+    "f_floor": 1.0,
+    "f_0.9": 0.949999988079071,
+    "real": [
+     "spotlight",
+     "tripod",
+     "lens cap",
+     "reflex camera"
+    ]
+   }
+  ],
+  "PIEs added by 90% pruning": [
+   {
+    "idx": 230,
+    "path": "ILSVRC2012_val_00016583_n04357314.JPEG",
+    "label": "sunscreen",
+    "dense_votes": "lotion (23); face powder (2)",
+    "pruned90_votes": "ice cream (23); lotion (5)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": []
+   },
+   {
+    "idx": 922,
+    "path": "ILSVRC2012_val_00013924_n02226429.JPEG",
+    "label": "grasshopper",
+    "dense_votes": "grasshopper (21); mantis (3)",
+    "pruned90_votes": "mantis (23); walking stick (6)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": [
+     "grasshopper"
+    ]
+   },
+   {
+    "idx": 1339,
+    "path": "ILSVRC2012_val_00026107_n02906734.JPEG",
+    "label": "broom",
+    "dense_votes": "broom (17); coil (3)",
+    "pruned90_votes": "coil (14); maraca (6)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": [
+     "broom"
+    ]
+   },
+   {
+    "idx": 1368,
+    "path": "ILSVRC2012_val_00010301_n02704792.JPEG",
+    "label": "amphibian",
+    "dense_votes": "amphibian (20); half track (5)",
+    "pruned90_votes": "half track (23); amphibian (6)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": [
+     "amphibian"
+    ]
+   },
+   {
+    "idx": 1662,
+    "path": "ILSVRC2012_val_00045331_n04009552.JPEG",
+    "label": "projector",
+    "dense_votes": "projector (21); CD player (4)",
+    "pruned90_votes": "CD player (22); projector (5)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": [
+     "projector"
+    ]
+   },
+   {
+    "idx": 2585,
+    "path": "ILSVRC2012_val_00020705_n04423845.JPEG",
+    "label": "thimble",
+    "dense_votes": "thimble (26); pot (1)",
+    "pruned90_votes": "pot (26); thimble (4)",
+    "f_floor": 0.0,
+    "f_0.9": 1.0,
+    "real": [
+     "agaric",
+     "mushroom"
+    ]
+   }
+  ]
+ },
+ "person_filter": {
+  "Seed-noise PIEs (dense vs dense)": {
+   "kept": [
+    [
+     115,
+     0.07288530468940735
+    ],
+    [
+     14458,
+     0.0
+    ],
+    [
+     18360,
+     0.0
+    ],
+    [
+     20280,
+     0.0
+    ],
+    [
+     27004,
+     0.0
+    ],
+    [
+     27600,
+     0.16332945227622986
+    ]
+   ],
+   "excluded_person": [
+    [
+     11180,
+     0.9993608593940735
+    ],
+    [
+     18191,
+     0.9973143935203552
+    ],
+    [
+     19547,
+     0.9983242154121399
+    ],
+    [
+     20316,
+     0.9982159733772278
+    ]
+   ]
+  },
+  "PIEs added by 90% pruning": {
+   "kept": [
+    [
+     230,
+     0.0
+    ],
+    [
+     922,
+     0.0
+    ],
+    [
+     1339,
+     0.10482227057218552
+    ],
+    [
+     1368,
+     0.07006684690713882
+    ],
+    [
+     1662,
+     0.0
+    ],
+    [
+     2585,
+     0.0
+    ]
+   ],
+   "excluded_person": [
+    [
+     1414,
+     0.9994321465492249
+    ],
+    [
+     1493,
+     0.3707317113876343
+    ],
+    [
+     1603,
+     0.9688549637794495
+    ],
+    [
+     1952,
+     0.9978680610656738
+    ]
+   ]
+  }
+ },
+ "rule": "exclude if COCO person score >= 0.3"
+}

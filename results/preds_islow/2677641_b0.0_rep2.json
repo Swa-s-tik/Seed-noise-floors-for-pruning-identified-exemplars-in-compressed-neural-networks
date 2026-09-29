@@ -1,0 +1,19 @@
+{
+ "run_id": "2677641_b0.0",
+ "tag": "rep2",
+ "n": 50000,
+ "top1": 0.76442,
+ "top5": 0.9324,
+ "top1_if_offset": {
+  "-1": 0.01118,
+  "1": 0.01086
+ },
+ "tstat_top1": 0.7656199932098389,
+ "tstat_top5": 0.9323400259017944,
+ "conv_zero_frac": 0.0,
+ "gpu_peak_alloc_GB": 1.240507904,
+ "seconds": 229.02837657928467,
+ "tf32": false,
+ "cudnn_deterministic": true,
+ "delta_top1_pp": -0.11999932098388788
+}

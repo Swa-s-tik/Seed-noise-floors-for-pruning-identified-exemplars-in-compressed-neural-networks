@@ -1,0 +1,10 @@
+{
+ "run_id": "2677646_t0.9",
+ "variant": "ifast",
+ "top1": 0.72574,
+ "top5": 0.91,
+ "tstat_top1": 0.7257999777793884,
+ "tstat_top5": 0.9099799990653992,
+ "top1_flips_vs_convert_py": 1110,
+ "delta_top1_pp": -0.005997777938837601
+}

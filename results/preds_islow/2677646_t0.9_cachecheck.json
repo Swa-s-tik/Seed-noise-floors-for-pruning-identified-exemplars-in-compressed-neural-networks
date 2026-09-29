@@ -1,0 +1,12 @@
+{
+ "run_id": "2677646_t0.9",
+ "decoder": "islow",
+ "tag": "cachecheck",
+ "top1": 0.7255,
+ "top5": 0.9098,
+ "tstat_top1": 0.7257999777793884,
+ "tstat_top5": 0.9099799990653992,
+ "conv_zero_frac": 0.898184866351236,
+ "gpu_peak_alloc_GB": 1.240514048,
+ "seconds": 243.3982710838318
+}
